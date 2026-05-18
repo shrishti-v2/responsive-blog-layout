@@ -1,4 +1,4 @@
-# web_development_task_8
+# Responsive Blog UI
 ## Project Overview
 This project is a responsive blog layout built using Bootstrap 5, designed to provide a structured and visually appealing format for showcasing blog posts.
 
